@@ -29,7 +29,8 @@ jobs:
           # Options
           user: lasercata
           template: classic
-          base: header, activity, community, repositories, metadata
+          # base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Europe/Paris
 
           plugin_isocalendar: yes
