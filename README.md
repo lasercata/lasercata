@@ -4,7 +4,7 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
 ## Contact
 - 📫 You can reach me at [contact@lasercata.com](mailto:contact@lasercata.com)
 - 🔒 My GPG public key is available on [keys.openpgp.org](https://keys.openpgp.org/search?q=contact%40lasercata.com)
-- 🪞 You can check my [git mirror](https://git.lasercata.com/lasercata)
+- 🪞 You can check my git mirror at [git.lasercata.com](https://git.lasercata.com/lasercata)
 
 ## Languages and Tools:
 <picture>
