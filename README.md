@@ -1,5 +1,5 @@
 # Hi 👋, I'm Lasercata
-TODO
+A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 student
 
 ## Contact
 - 📫 You can reach me at [contact@lasercata.com](mailto:contact@lasercata.com)
