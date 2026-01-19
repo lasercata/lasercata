@@ -4,6 +4,7 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
 ## Contact
 - 📫 You can reach me at [contact@lasercata.com](mailto:contact@lasercata.com)
 - 🔒 My GPG public key is available on [keys.openpgp.org](https://keys.openpgp.org/search?q=contact%40lasercata.com)
+- 🪞 You can check my [git mirror](https://git.lasercata.com/lasercata)
 
 ## Languages and Tools:
 <picture>
@@ -14,11 +15,13 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
 <picture>
     <table>
         <tr>
-            <td valign="top">
-                <img src="./github-metrics.svg" alt="Github Metrics">
+            <td valign="top" width="50%">
+                <!-- <img src="./profile/github-metrics.svg" alt="Github Metrics"> -->
+                <img src="./profile/stats.svg" alt="Github stats">
+                <img src="./profile/top-langs.svg" alt="Github langs">
             </td>
             <td valign="top">
-                <img src="./github-isocalendar.svg" alt="Github Isocalendar">
+                <img src="./profile/github-isocalendar.svg" alt="Github Isocalendar">
             </td>
         </tr>
     </table>

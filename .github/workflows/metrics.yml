@@ -28,7 +28,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          filename: github-metrics.svg
+          filename: profile/github-metrics.svg
 
           # Options
           user: lasercata
@@ -65,7 +65,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          filename: github-isocalendar.svg
+          filename: profile/github-isocalendar.svg
 
           # Options
           user: lasercata
