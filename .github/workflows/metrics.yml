@@ -56,4 +56,4 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
 
-          # plugin_traffic: yes
+          plugin_traffic: yes
