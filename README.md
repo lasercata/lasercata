@@ -14,10 +14,10 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
 <picture>
     <table>
         <tr>
-            <td>
+            <td valign="top">
                 <img src="/github-metrics.svg" alt="Github Metrics">
             </td>
-            <td>
+            <td valign="top">
                 <img src="/github-isocalendar.svg" alt="Github Isocalendar">
             </td>
         </tr>
