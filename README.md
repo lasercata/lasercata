@@ -11,13 +11,15 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,linux,arch,debian,kali,docker,neovim,latex,md" alt="Tools">
 </picture>
 
-<br>
-
 <picture>
-    <div style="display: inline-block; width: 48%; margin: 1%;">
-        <img src="/github-metrics.svg" alt="Github Metrics" width="100%">
-    </div>
-    <div style="display: inline-block; width: 48%; margin: 1%;">
-        <img src="/github-isocalendar.svg" alt="Github Isocalendar" width="100%">
-    </div>
+    <table>
+        <tr>
+            <td>
+                <img src="/github-metrics.svg" alt="Github Metrics">
+            </td>
+            <td>
+                <img src="/github-isocalendar.svg" alt="Github Isocalendar">
+            </td>
+        </tr>
+    </table>
 </picture>
