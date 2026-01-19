@@ -11,4 +11,8 @@ TODO
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,linux,arch,debian,kali,docker,neovim,latex,md" alt="Tools">
 </picture>
 
-![Metrics](/github-metrics.svg)
+<br>
+
+<picture>
+    <img src="/github-metrics.svg" alt="Github Metrics">
+</picture>
