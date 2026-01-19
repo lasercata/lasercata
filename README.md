@@ -14,5 +14,10 @@ A passionate **software engineering** 💻 and **cybersecurity** 👨‍💻 stu
 <br>
 
 <picture>
-    <img src="/github-metrics.svg" alt="Github Metrics">
+    <div style="display: inline-block; width: 48%; margin: 1%;">
+        <img src="/github-metrics.svg" alt="Github Metrics">
+    </div>
+    <div style="display: inline-block; width: 48%; margin: 1%;">
+        <img src="/github-isocalendar.svg" alt="Github Isocalendar">
+    </div>
 </picture>
