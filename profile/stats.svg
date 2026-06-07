@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lasercata's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 45, Total Commits  : 2374, Total PRs: 37, Total PRs Merged: 34, Merged PRs Percentage: 91.89, Total PRs Reviewed: 6, Total Issues: 21, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 45, Total Commits  : 2375, Total PRs: 37, Total PRs Merged: 34, Merged PRs Percentage: 91.89, Total PRs Reviewed: 6, Total Issues: 21, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 109.09788001812244;
+        stroke-dashoffset: 109.09228091644296;
       }
     }
   
